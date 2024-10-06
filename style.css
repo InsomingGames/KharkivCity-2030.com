@@ -27,7 +27,9 @@
   min-width: 1536px;
   
 }
-
+body{
+  min-width: 1536px;
+}
 @media screen and (max-width:1200px) {
   .kharkiv-city {
     width: none;
