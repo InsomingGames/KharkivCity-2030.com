@@ -221,7 +221,7 @@
 
 .kharkiv-city .text-wrapper-6 {
   position: absolute;
-  width: 59px;
+  width: 89px;
   top: 61px;
   left: 1200px;
   transition: all 0.2s ease;
@@ -682,9 +682,9 @@
   }
   .kharkiv-city .text-wrapper-6 {
     position: absolute;
-    width: 59px;
+    width: 89px;
     top: 61px;
-    left: 1068px;
+    left: 1048px;
     transition: all 0.2s ease;
     font-family: "Inter", Helvetica;
     font-weight: 400;
