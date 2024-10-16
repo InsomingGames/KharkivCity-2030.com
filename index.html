@@ -10,31 +10,39 @@
     <link rel="icon" href="Svg/Logo.ico">
   </head>
   <body>
-    <div class="kharkiv-city">
-      <div class="overlap-wrapper">
+    <script src="javascript/lang.js"></script>
+    <div  class="kharkiv-city">
+      <div  class="overlap-wrapper">
         <div class="overlap">
-          <div class="rectangle"></div>
+          <div  class="rectangle" id="BG"></div>
           <div class="div"></div>
           <div class="INSOMING-GAMES">
-            <h1>INSOMING GAMES</h1></div>
+            <h1>INSOMING GAMES</h1>
+            <img class="Gamess disp" id="PayImg" src="Svg/Pay Game.png"/>
+          </div>
           <p class="KHARKIV">
             <span class="text-wrapper">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ПОЛНОЕ ПОГРУЖЕНИЕ В<br /></span>
             <span class="span">KHARKIV-2030</span>
           </p>
           <a href="index.html" class="text-wrapper-2">ДОМОЙ</a>
-          <a href="#" class="text-wrapper-3">ИГРЫ</a>
+          <a href="#" class="text-wrapper-3" id="Games">ИГРЫ</a>
           <img class="img" src="img/rectangle-13.png" />
           <a href="#" class="text-wrapper-4">ПОДРОБНЕЕ</a>
-          <img class="vector" src="img/vector-2.png" />
           <img class="vector-2"src="img/vector-2.png" />
           <a href="#" class="text-wrapper-5">МЕДИА</a>
-          <a href="" class="text-wrapper-6">О НАС</a>
-          <a href="EN.html" class="text-wrapper-7">UA</a>
+          <a href="#Over" class="text-wrapper-6">О НАС</a>
+          <div href="" class="text-wrapper-7">
+            <select  class="lang">
+              <option value="ua">UA</option>
+              <option value="ru">RU</option>
+              <option value="en">EN</option>
+            </select>
+          </div>
           <a href="register.html" class="text-wrapper-8">ЗАРЕГИСТРИРОВАТСЯ</a>
           <a href="#" class="text-wrapper-9">ПРОЧЕЕ</a>
           <a href="https://pay.fondy.eu/s/ET8neEqhAUBmGQwv" class="text-wrapper-10">КУПИТЬ</a>
           <div class="rectangle-2"></div>
-          <a href="#" class="text-wrapper-11">ВОЙТИ</a>
+          <a href="Login.html" class="text-wrapper-11">ВОЙТИ</a>
           <div class="rectangle-3"></div>
           <p class="kharkivcity">
             <span class="text-wrapper-12">©</span> <span class="text-wrapper-13">kharkivcity2030</span>
@@ -43,13 +51,13 @@
           <a href="https://www.youtube.com/watch?v=b7kbn71PPLw" class="text-wrapper-14">ТРЕЙЛЕР</a>
           <p class="OVERVIEW-kharkivcity">
             <span class="span">OVERVIEW<br /></span>
-            <span class="text-wrapper"
-              >KharkivCity-2030, the latest and most ambitious realistic video game production from Insoming Games, is
-              finally coming to PC! Background: After several decades of rapid technological progress and social
-              transformation, Kharkov has emerged as one of the centers of innovation and advanced technology in Eastern
-              Europe. The city is divided between ultra-modern skyscrapers with corporate offices and poverty zones
-              where underground activity is in full swing. In 2030</span
-            >
+            <span class="text-wrapper" id="Over"
+              >KharkivCity-2030, новейшая и самая амбициозная реалистичная видеоигра от Insoming Games.
+              наконец-то выходит на ПК! Предыстория: После нескольких десятилетий стремительного технологического прогресса и социальных
+              преобразований, Харьков стал одним из центров инноваций и передовых технологий в Восточной
+              Европе. Город разделен на ультрасовременные небоскребы с корпоративными офисами и зоны бедности.
+              где полным ходом идет подземная деятельность. В 2030 году
+            </span>
           </p>
           <div class="text-wrapper-15">SCREENSHOTS:</div>
           <p class="AGE-RATING-PEGI">
@@ -57,15 +65,19 @@
             <span class="text-wrapper">:PEGI 18 / ESRB Mature 17+<br /></span>
             <span class="span"><br />MINIMUM</span>
             <span class="text-wrapper"
-              >OS: Windows 10 (64 bit)-Processor: Intel Core i5-2300 @ 2.8 GHz or Ryzen 3 1200 @ 3.1GHz or AMD
-              FX-8350 @ 4.2GHz -Memory: 8GB RAM-Video: Nvidia GeForce GTX 780 or AMD HD 7950 (Support of Vulkan 1.1
-              required)-Video RAM: 3GB or more-Hard Drive : 15 GB<br
+              ><br>OS: Windows 10 (64 bit)<br>Processor: Intel Core i5-9300 @ 3.5 GHz or Ryzen 3 1200 @ 3.1GHz or AMD
+              FX-8350 @ 4.2GHz <br>Memory: 8GB <br>RAM-Video: Nvidia GeForce GTX 780 or AMD HD 7950 (Support of Vulkan 1.1
+              required)<br>Video RAM: 3GB or more-Hard Drive : 15 GB<br
             /></span>
             <span class="span"><br />RECOMMENDED</span>
             <span class="text-wrapper"
-              >OS: Windows 10 (64 bit)-Processor: i5-6600 @ 3.3 GHz or Ryzen 3 1300 X @ 3.4 GHz-Memory: 12GB
-              RAM-Video: Nvidia GeForce GTX 1060 or AMD Radeon RX 580 (Support of Vulkan 1.1 required)-Video RAM: 4GB
-              or more-Hard Drive : 15 GB<br />©2024 Sony Interactive Entertainment Europe ltd. Developed by Insoming
+              ><br>OS: Windows 10-11 (64 bit)
+              <br>Processor: i5-6600 @ 3.3 GHz or Ryzen 3 1300 X @ 3.4 GHz
+              <br>Memory: 16GB
+              <br>RAM-Video: Nvidia GeForce GTX 1060 or AMD Radeon RX 580 (Support of Vulkan 1.1 required)-
+              <br>Video RAM: 4GB
+              or more 
+              <br>Hard Drive : 15 GB<br />©2024 Sony Interactive Entertainment Europe ltd. Developed by Insoming
               Games&nbsp;&nbsp;“Kharkiv City Conuction of Story” is a trademark of Sony Interactive Entertainment
               Europe. All rights reserved. PlayStation ® is a registered trademark of Sony Interactive Entertainment
               Inc.</span
@@ -73,7 +85,9 @@
           </p>
           <div class="rectangle-5"></div>
           <div class="rectangle-6"></div>
-          <img class="screenshot" src="img/screenshot-6-1.png" />
+          <a id="ButtonGalery" href="#">
+          <img id="Photo" class="screenshot" src="img/screenshot-6-1.png"/>
+        </a>
           <img class="screenshot-2" src="img/screenshot-6-2.png" />
           <img class="screenshot-3" src="img/screenshot-6-3.png" />
           <img class="screenshot-4" src="img/screenshot-6-4.png" />
@@ -92,9 +106,14 @@
               </div>
               <img class="image" src="img/image-1.png" />
             </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
+    <script src="javascript/three.r134.min.js"></script>
+    <script src="javascript/vanta.fog.min.js"></script>
+    <script src="javascript/app2.js"></script>
   </body>
+  <script src="javascript/app.js"></script>
 </html>
