@@ -1,0 +1,876 @@
+:hover.text-wrapper-10{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-11{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-12{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-13{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-15{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-16{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-17{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-4{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.text-wrapper-3{
+  text-shadow:  0 0 5px #00d0ff;
+}
+:hover.kh{
+  color: #00e0ff;
+}
+:hover.kh1{
+  color: #00e0ff;
+}
+.kharkiv-city {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1899px;
+}
+
+.kharkiv-city .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 2592px;
+  position: relative;
+}
+.kharkiv-city .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 99px;
+  top: 0;
+  left: 0;
+  background-color: #050111;
+}
+
+.kharkiv-city .overlap {
+  position: absolute;
+  width: 1899px;
+  height: 580px;
+  top: 99px;
+  left: 0;
+  background-image: url(svg/Introduction.png);
+
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.kharkiv-city .text-wrapper {
+  position: absolute;
+  top: 272px;
+  left: 302px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .frame {
+  position: absolute;
+  width: 462px;
+  height: 305px;
+  top: 87px;
+  left: 670px;
+}
+
+.kharkiv-city .overlap-group {
+  position: relative;
+  width: 461px;
+  height: 303px;
+  top: 1px;
+  left: 6px;
+}
+
+.kharkiv-city .KHARKIV {
+  position: absolute;
+  width: 461px;
+  top: 0;
+  left: 0;
+  font-family: "Gotham Ultra-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .span {
+  color: #ffffff;
+}
+
+.kharkiv-city .text-wrapper-2 {
+  color: #24d9d9;
+}
+.lang{
+  position: absolute;
+  width: 49px;
+  height: 23px;
+  color: #ffffff;
+  background-color: #060e37;
+  top: 61px;
+  left: 1765px;
+  font-size: 18px;
+  border-radius: 3.5px;
+}
+.kharkiv-city .div-wrapper {
+  position: absolute;
+  width: 172px;
+  height: 52px;
+  top: 200px;
+  left: 22px;
+  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-12.svg);
+  background-size: 100% 100%;
+}
+.overlap-99 {
+  position: absolute;
+  width: 67px;
+  height: 18px;
+  top: 90px;
+  left: 1105px;
+}
+.kh{
+  position: absolute;
+  top: 195px;
+  left: 1px;
+  font-size: 18px;
+  color: white;
+}
+.kharkiv-city .text-wrapper-3 {
+  position: absolute;
+  width: 128px;
+  top: 12px;
+  left: 15px;
+  transition: all 0.5s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .frame-2 {
+  position: absolute;
+  width: 172px;
+  height: 52px;
+  top: 200px;
+  left: 243px;
+  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-13.svg);
+  background-size: 100% 100%;
+}
+
+.kharkiv-city .text-wrapper-4 {
+  position: absolute;
+  width: 99px;
+  top: 12px;
+  left: 36px;
+  transition: all 0.5s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .overlap-2 {
+  position: absolute;
+  width: 1502px;
+  height: 929px;
+  top: 679px;
+  left: 0;
+}
+
+.kharkiv-city .rectangle {
+  height: 400px;
+  top: 529px;
+  background-color: #13152a;
+  position: absolute;
+  width: 1900px;
+  left: 0;
+}
+
+.kharkiv-city .frame-3 {
+  position: absolute;
+  width: 1900px;
+  height: 398px;
+  top: 531px;
+  left: 0;
+}
+
+.kharkiv-city .MINIMUM-OS-windows {
+  position: absolute;
+  width: 646px;
+  top: 89px;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .RECOMMENDED-OS {
+  position: absolute;
+  width: 651px;
+  top: 35px;
+  left: 1100px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .OVERVIEW {
+  position: absolute;
+  width: 1500px;
+  height: 577px;
+  top: 0;
+  left: 0;
+}
+
+.kharkiv-city .overlap-3 {
+  position: relative;
+  height: 579px;
+  width: 1989px;
+  top: -2px;
+  background-color: #181a2c;
+}
+
+.kharkiv-city .OVERVIEW-kharkivcity {
+  position: absolute;
+  width: 584px;
+  top: 51px;
+  left: 85px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .pay-games {
+  position: absolute;
+  width: 397px;
+  height: 517px;
+  top: 32px;
+  left: 1100px;
+}
+
+.kharkiv-city .overlap-group-2 {
+  position: relative;
+  width: 377px;
+  height: 507px;
+  top: 3px;
+  left: 8px;
+  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-19.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.kharkiv-city .overlap-4 {
+  position: absolute;
+  width: 369px;
+  height: 52px;
+  top: 393px;
+  left: 4px;
+  background: linear-gradient(180deg, rgba(36.77, 217.37, 217.37, 0.35) 26.91%, rgba(19.52, 115.37, 115.37, 0.35) 100%);
+}
+
+.kharkiv-city .overlap-5 {
+  position: absolute;
+  width: 165px;
+  height: 52px;
+  top: 0;
+  left: 9px;
+  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-20.svg);
+  background-size: 100% 100%;
+}
+
+.kharkiv-city .text-wrapper-5 {
+  position: absolute;
+  width: 82px;
+  top: 12px;
+  left: 40px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .overlap-6 {
+  position: absolute;
+  width: 173px;
+  height: 52px;
+  top: 0;
+  left: 192px;
+  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-22.svg);
+  background-size: 100% 100%;
+}
+
+.kharkiv-city .text-wrapper-6 {
+  position: absolute;
+  width: 165px;
+  top: 12px;
+  left: 8px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .text-wrapper-7 {
+  position: absolute;
+  width: 47px;
+  top: 350px;
+  left: 173px;
+  font-family: "Geologica", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .overlap-7 {
+  position: absolute;
+  width: 294px;
+  height: 83px;
+  top: 18px;
+  left: 38px;
+}
+
+.kharkiv-city .kharkivv {
+  position: absolute;
+  width: 294px;
+  height: 59px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.kharkiv-city .element {
+  position: absolute;
+  width: 77px;
+  top: 50px;
+  left: 189px;
+  font-family: "Gotham Ultra-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .image {
+  position: absolute;
+  width: 157px;
+  height: 39px;
+  top: 348px;
+  left: 5px;
+  object-fit: cover;
+}
+
+.kharkiv-city .frame-wrapper {
+  position: absolute;
+  width: 1989px;
+  height: 492px;
+  top: 1608px;
+  left: 0;
+  background-color: #0d0f23;
+}
+
+.kharkiv-city .frame-4 {
+  position: relative;
+  height: 492px;
+}
+
+.kharkiv-city .INSOMING-GAMES {
+  position: absolute;
+  width: 627px;
+  top: 102px;
+  left: 58px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .text-wrapper-8 {
+  color: #00e0ff;
+}
+
+.kharkiv-city .overlap-8 {
+  position: absolute;
+  width: 640px;
+  height: 386px;
+  top: 30px;
+  left: 1104px;
+}
+
+.kharkiv-city .text-wrapper-9 {
+  position: absolute;
+  width: 301px;
+  top: 0;
+  left: 0;
+  font-family: "Goldman", Helvetica;
+  font-weight: 400;
+  color: #24d9d9;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .frame-5 {
+  position: absolute;
+  width: 640px;
+  height: 383px;
+  top: 3px;
+  left: 0;
+}
+
+.screenshot {
+  top: 70px;
+  left: 7px;
+  position: absolute;
+  width: 252px;
+  height: 118px;
+  object-fit: cover;
+  transition: all 0.2s;
+}
+
+.kharkiv-city .img {
+  top: 70px;
+  left: 388px;
+  position: absolute;
+  width: 252px;
+  height: 118px;
+  object-fit: cover;
+  transition: all 0.2s;
+}
+.screenshot-2:hover{
+  width: 270px;
+  height: 130px;
+}
+.screenshot-3:hover{
+  width: 270px;
+  height: 130px;
+}
+.screenshot:hover{
+  width: 270px;
+  height: 130px;
+}
+.img:hover{
+  width: 270px;
+  height: 130px;
+}
+.screenshot-2 {
+  top: 223px;
+  left: 7px;
+  position: absolute;
+  width: 252px;
+  height: 118px;
+  transition: all 0.2s;
+}
+
+.screenshot-3 {
+  top: 223px;
+  left: 388px;
+  position: absolute;
+  width: 252px;
+  height: 118px;
+  transition: all 0.2s;
+}
+
+.kharkiv-city .rectangle-2 {
+  height: 492px;
+  top: 2100px;
+  background-color: #0d0f23;
+  position: absolute;
+  width: 1900px;
+  left: 0;
+}
+
+.kharkiv-city .INSOMING-GAMES-2 {
+  position: absolute;
+  width: 183px;
+  top: 18px;
+  left: 72px;
+  font-family: "Gotham Ultra-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-10 {
+  position: absolute;
+  width: 60px;
+  top: 62px;
+  left: 323px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #00c3ff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .text-wrapper-11 {
+  position: absolute;
+  width: 0px;
+  top: 0;
+  left: 0px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.kharkiv-city .overlap-9 {
+  position: absolute;
+  width: 67px;
+  height: 18px;
+  top: 62px;
+  left: 445px;
+}
+
+.kharkiv-city .text-wrapper-12 {
+  position: absolute;
+  width: 64px;
+  top: 62px;
+  left: 542px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .text-wrapper-13 {
+  position: absolute;
+  width: 89px;
+  top: 62px;
+  left: 1540px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+.kharkiv-city .text-wrapper-15 {
+  position: absolute;
+  width: 87px;
+  top: 62px;
+  left: 1370px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .text-wrapper-16 {
+  position: absolute;
+  width: 68px;
+  top: 62px;
+  left: 797px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kharkiv-city .text-wrapper-17 {
+  position: absolute;
+  width: 208px;
+  top: 62px;
+  left: 947px;
+  transition: all 0.2s ease;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+
+
+
+@media (max-width:1536px){
+  .kharkiv-city {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1518px;
+  }
+  
+  .kharkiv-city .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 2592px;
+    position: relative;
+  }
+  .kharkiv-city .navbar {
+    position: absolute;
+    width: 1920px;
+    height: 99px;
+    top: 0;
+    left: 0;
+    background-color: #050111;
+  }
+  
+  .kharkiv-city .overlap {
+    position: absolute;
+    width: 1518px;
+    height: 580px;
+    top: 99px;
+    left: 0;
+    background-image: url(/svg/Introduction.jpeg);
+  
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .kharkiv-city .text-wrapper {
+    position: absolute;
+    top: 272px;
+    left: 302px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .kharkiv-city .frame {
+    position: absolute;
+    width: 462px;
+    height: 305px;
+    top: 87px;
+    left: 670px;
+  }
+  
+  .kharkiv-city .overlap-group {
+    position: relative;
+    width: 461px;
+    height: 303px;
+    top: 1px;
+    left: 6px;
+  }
+  
+  .kharkiv-city .KHARKIV {
+    position: absolute;
+    width: 461px;
+    top: 0;
+    left: 0;
+    font-family: "Gotham Ultra-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .lang{
+    position: absolute;
+    width: 49px;
+    height: 23px;
+    color: #ffffff;
+    background-color: #060e37;
+    top: 61px;
+    left: 1365px;
+    font-size: 18px;
+    border-radius: 3.5px;
+  }
+  .kharkiv-city .text-wrapper-12 {
+    position: absolute;
+    width: 64px;
+    top: 62px;
+    left: 542px;
+    transition: all 0.2s ease;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .kharkiv-city .text-wrapper-13 {
+    position: absolute;
+    width: 89px;
+    top: 62px;
+    left: 1240px;
+    transition: all 0.2s ease;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  
+  
+  .kharkiv-city .text-wrapper-15 {
+    position: absolute;
+    width: 87px;
+    top: 62px;
+    left: 1120px;
+    transition: all 0.2s ease;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .kharkiv-city .text-wrapper-16 {
+    position: absolute;
+    width: 68px;
+    top: 62px;
+    left: 997px;
+    transition: all 0.2s ease;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .kharkiv-city .text-wrapper-17 {
+    position: absolute;
+    width: 208px;
+    top: 62px;
+    left: 700px;
+    transition: all 0.2s ease;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .kharkiv-city .overlap-8 {
+    position: absolute;
+    width: 640px;
+    height: 386px;
+    top: 30px;
+    left: 804px;
+  }
+  .kharkiv-city .RECOMMENDED-OS {
+    position: absolute;
+    width: 651px;
+    top: 35px;
+    left: 804px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .kharkiv-city .pay-games {
+    position: absolute;
+    width: 397px;
+    height: 517px;
+    top: 32px;
+    left: 904px;
+  }
+  .kharkiv-city .frame {
+    position: absolute;
+    width: 462px;
+    height: 305px;
+    top: 87px;
+    left: 550px;
+  }
+  .overlap-99 {
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    top: 90px;
+    left: 805px;
+  }
+  .kh{
+    position: absolute;
+    top: 200px;
+    left: 1px;
+    font-size: 18px;
+    color: white;
+    transition: all 0.3s;
+  }
+  .kh1{
+    position: absolute;
+    top: 200px;
+    left: 380px;
+    font-size: 18px;
+    color: white;
+    transition: all 0.3s;
+  }
+}
+
+
+
+
+
+
