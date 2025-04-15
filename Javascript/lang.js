@@ -17,7 +17,7 @@ const langArr = {
      "en" : "GAME",
 },
 "Media" :  {
-     "ru" : "МЕДИЯ",
+     "ru" : "МЕДИА",
      "ua" : "МЕДІЯ",
      "en" : "MEDIA",
 },
