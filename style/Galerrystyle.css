@@ -1,0 +1,414 @@
+.GALERY {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1905px;
+  }
+  
+  .GALERY .div {
+    background-color: rgba(22, 24, 43, 1);
+    width: 1905px;
+    height: 2592px;
+    position: relative;
+  }
+  
+  .GALERY .overlap {
+    position: absolute;
+    width: 1535px;
+    height: 580px;
+    top: 99px;
+    left: 0;
+    background-image: url(./img/screenshot-1-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .GALERY .frame {
+    position: absolute;
+    width: 640px;
+    height: 383px;
+    top: 82px;
+    left: 197px;
+  }
+  
+  .GALERY .screenshot {
+    top: 70px;
+    left: 7px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .img {
+    top: 70px;
+    left: 388px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .screenshot-2 {
+    top: 223px;
+    left: 7px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .screenshot-3 {
+    top: 223px;
+    left: 388px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .text-wrapper {
+    position: absolute;
+    width: 301px;
+    top: -3px;
+    left: 0;
+    font-family: "Goldman", Helvetica;
+    font-weight: 400;
+    color: #24d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .frame-2 {
+    position: absolute;
+    width: 640px;
+    height: 383px;
+    top: 82px;
+    left: 1098px;
+  }
+  
+  .GALERY .overlap-group {
+    position: absolute;
+    width: 1535px;
+    height: 929px;
+    top: 679px;
+    left: 0;
+  }
+  
+  .GALERY .rectangle {
+    height: 400px;
+    top: 529px;
+    background-color: #13152a;
+    position: absolute;
+    width: 1905px;
+    left: 0;
+  }
+  
+  .GALERY .OVERVIEW-kharkivcity-wrapper {
+    position: absolute;
+    width: 1905px;
+    height: 298px;
+    top: 531px;
+    left: 0;
+  }
+  
+  .GALERY .OVERVIEW-kharkivcity {
+    position: absolute;
+    width: 584px;
+    top: 30px;
+    left: 98px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .span {
+    color: #24d9d9;
+  }
+  
+  .GALERY .text-wrapper-2 {
+    color: #ffffff;
+  }
+ 
+  .GALERY .OVERVIEW {
+    position: absolute;
+    width: 1905px;
+    height: 531px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .GALERY .overlap-group-2 {
+    position: relative;
+    height: 579px;
+    top: -2px;
+    background-color: #181a2c;
+  }
+  
+  .GALERY .screenshot-4 {
+    top: 83px;
+    left: 804px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .screenshot-5 {
+    top: 83px;
+    left: 1185px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .screenshot-6 {
+    top: 236px;
+    left: 804px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .screenshot-7 {
+    top: 236px;
+    left: 1185px;
+    position: absolute;
+    width: 252px;
+    height: 118px;
+    object-fit: cover;
+  }
+  
+  .GALERY .frame-wrapper {
+    position: absolute;
+    width: 1905px;
+    height: 992px;
+    top: 1608px;
+    left: 0;
+    background-color: #0d0f23;
+  }
+  
+  .GALERY .frame-3 {
+    position: relative;
+    height: 492px;
+  }
+  
+  .GALERY .MINIMUM-OS-windows {
+    position: absolute;
+    width: 646px;
+    top: 150px;
+    left: 97px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .RECOMMENDED-OS {
+    position: absolute;
+    width: 651px;
+    top: 96px;
+    left: 1230px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .rectangle-2 {
+    height: 492px;
+    top: 2100px;
+    background-color: #0d0f23;
+    position: absolute;
+    width: 1905px;
+    left: 0;
+  }
+  
+  .GALERY .navbar {
+    position: absolute;
+    width: 1905px;
+    height: 99px;
+    top: 0;
+    left: 0;
+    background-color: #050111;
+  }
+  
+  .GALERY .INSOMING-GAMES {
+    position: absolute;
+    width: 183px;
+    top: 18px;
+    left: 72px;
+    font-family: "Gotham Ultra-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-3 {
+    width: 63px;
+    left: 323px;
+    color: #ffffff;
+    white-space: nowrap;
+    position: absolute;
+    top: 63px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-3:hover {
+    color: #00d7ff;
+  }
+  
+  .GALERY .overlap-2 {
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    top: 63px;
+    left: 443px;
+  }
+  
+  .GALERY .text-wrapper-4 {
+    position: absolute;
+    width: 0px;
+    top: 0px;
+    left: 0px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .GALERY .text-wrapper-4:hover {
+    color: #00ffea;
+  }
+  
+  .GALERY .vector {
+    top: 7px;
+    left: 50px;
+    position: absolute;
+    width: 16px;
+    height: 10px;
+  }
+  
+  .GALERY .vector-2 {
+    top: 69px;
+    left: 1443px;
+    position: absolute;
+    width: 16px;
+    height: 10px;
+  }
+  
+  .GALERY .text-wrapper-5 {
+    width: 64px;
+    left: 542px;
+    color: #00f6ff;
+    position: absolute;
+    top: 63px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-5:hover {
+    color: #00d7ff;
+  }
+  
+  .GALERY .text-wrapper-6 {
+    width: 59px;
+    left: 1540px;
+    color: #ffffff;
+    position: absolute;
+    top: 62px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-6:hover {
+    color: #00d7ff;
+  }
+  
+
+  
+  .GALERY .text-wrapper-8 {
+    width: 67px;
+    left: 1367px;
+    color: #ffffff;
+    position: absolute;
+    top: 62px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-8:hover {
+    color: #00d7ff;
+  }
+  
+  .GALERY .text-wrapper-9 {
+    width: 137px;
+    left: 800px;
+    color: #ffffff;
+    position: absolute;
+    top: 62px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-9:hover {
+    color: #00d7ff;
+  }
+  
+  .GALERY .text-wrapper-10 {
+    width: 208px;
+    left: 968px;
+    color: #ffffff;
+    position: absolute;
+    top: 62px;
+    transition: all 0.2s ease;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .GALERY .text-wrapper-10:hover {
+    color: #00d7ff;
+  }
+  
