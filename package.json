@@ -3,3 +3,12 @@
   "dependencies": {},
   "devDependencies": {}
 }
+
+
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Insoming Games",
+  "url": "https://insominggames.github.io/",
+  "logo": "https://insominggames.github.io/KharkivCity-2030.com/svg/Logo%20Company.png"
+}
