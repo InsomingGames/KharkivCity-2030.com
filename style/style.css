@@ -287,7 +287,7 @@
   height: 507px;
   top: 3px;
   left: 8px;
-  background-image: url(https://c.animaapp.com/KPGGS54G/img/rectangle-19.png);
+  background-image: url(https://insominggames.github.io/KharkivCity-2030.com/svg/rectangle-199.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -928,22 +928,22 @@
 
 
 
-
+/* For Iphone 12/13/14/15/16pro-max  */
 
 @media (max-width:431px){
   .kharkiv-city {
-    background-color: #ffffff;
+    background-color: #0d0f23;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 431px;
+    width: 430px;
   }
   
   .kharkiv-city .div {
-    background-color: #ffffff;
+    background-color: #0d0f23;
     overflow: hidden;
-    width: 431px;
-    height: 2492px;
+    width: 430px;
+    height: 2992px;
     position: relative;
   }
   .kharkiv-city .navbar {
@@ -973,7 +973,7 @@
     font-family: "Gotham Ultra-Regular", Helvetica;
     font-weight: 400;
     color: #ffffff;
-    font-size: 28px;
+    font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
     color: transparent;
@@ -1127,8 +1127,8 @@
     position: absolute;
     width: 397px;
     height: 517px;
-    top: 32px;
-    left: 904px;
+    top: 1122px;
+    left: -2px;
   }
   .kharkiv-city .frame {
     position: absolute;
@@ -1218,12 +1218,12 @@
     position: absolute;
     width: 337px;
     height: 1000px;
-    top: 102px;
-    left: 18px;
+    top: 60px;
+    left: 35px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: transparent;
-    font-size: 24px;
+    font-size: 23px;
     text-align: justify;
     letter-spacing: 0;
     line-height: normal;
@@ -1231,27 +1231,27 @@
   .kharkiv-city .frame-wrapper {
     position: absolute;
     width: 1989px;
-    height: 1092px;
-    top: 1608px;
+    height: 1992px;
+    top: 2309px;
     left: 0;
     background-color: #0d0f23;
   }
   .kharkiv-city .MINIMUM-OS-windows {
     position: absolute;
     width: 646px;
-    top: 59px;
+    top: 109px;
     left: 20px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: transparent;
-    font-size: 18px;
+    font-size: 15x;
     letter-spacing: 0;
     line-height: normal;
   }
   .kharkiv-city .RECOMMENDED-OS {
     position: absolute;
     width: 651px;
-    top: 205px;
+    top: 325px;
     left: 20px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
@@ -1327,8 +1327,8 @@
   .kharkiv-city .OVERVIEW-kharkivcity {
     position: absolute;
     width: 324px;
-    top: 91px;
-    left: 20px;
+    top: 20px;
+    left: 40px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: transparent;
@@ -1336,6 +1336,21 @@
     text-align: justify;
     letter-spacing: 0;
     line-height: normal;
+  }
+  .kharkiv-city .rectangle {
+    height: 600px;
+    top: 529px;
+    background-color: #13152a;
+    position: absolute;
+    width: 40px;
+    left: 0;
+  }
+  .kharkiv-city .frame-3 {
+    position: absolute;
+    width: 430px;
+    height: 700px;
+    top: 531px;
+    left: 0;
   }
 }
 
@@ -1354,11 +1369,11 @@
 
 
 
-
+/* For Iphone 12/pro 13/pro */
 
 @media (max-width:390px){
   .kharkiv-city {
-    background-color: #ffffff;
+    background-color: #0d0f23;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -1366,10 +1381,10 @@
   }
   
   .kharkiv-city .div {
-    background-color: #ffffff;
+    background-color: #0d0f23;
     overflow: hidden;
     width: 390px;
-    height: 2492px;
+    height: 2992px;
     position: relative;
   }
   .kharkiv-city .navbar {
@@ -1399,7 +1414,7 @@
     font-family: "Gotham Ultra-Regular", Helvetica;
     font-weight: 400;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
     color: transparent;
@@ -1553,8 +1568,8 @@
     position: absolute;
     width: 397px;
     height: 517px;
-    top: 32px;
-    left: 904px;
+    top: 1122px;
+    left: -2px;
   }
   .kharkiv-city .frame {
     position: absolute;
@@ -1645,7 +1660,7 @@
     width: 337px;
     height: 1000px;
     top: 102px;
-    left: 23px;
+    left: 18px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: transparent;
@@ -1657,8 +1672,8 @@
   .kharkiv-city .frame-wrapper {
     position: absolute;
     width: 1989px;
-    height: 992px;
-    top: 1708px;
+    height: 1992px;
+    top: 2309px;
     left: 0;
     background-color: #0d0f23;
   }
@@ -1754,7 +1769,7 @@
     position: absolute;
     width: 324px;
     top: 30px;
-    left: 32px;
+    left: 20px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: transparent;
